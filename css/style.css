@@ -45,6 +45,7 @@ address {
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
+  margin-bottom: 0;
 }
 .header-navigation {
 }
@@ -121,6 +122,9 @@ address {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  padding: 188px 472px 292px 472px;
+  max-width: 496px;
+  margin-bottom: 48px;
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -139,6 +143,11 @@ address {
 .hero-button-link {
 }
 .section-one {
+  padding-top: 120px;
+}
+.features {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .section-one-list {
@@ -152,6 +161,7 @@ address {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  padding-bottom: 8px;
 }
 .section-one-text {
   color: #434455;
@@ -162,6 +172,14 @@ address {
 }
 .section-two {
   background-color: #f4f4fd;
+  padding-top: 120px;
+}
+.taste {
+}
+.taste-title {
+  max-width: 162px;
+  margin: 0 auto;
+  margin-bottom: 72px;
 }
 .section-two-title-second {
   color: #2e2f42;
@@ -178,6 +196,7 @@ address {
   background-color: #ffffff;
 }
 .section-two-img {
+  padding-bottom: 32px;
 }
 .section-two-title-third {
   color: #2e2f42;
@@ -186,6 +205,8 @@ address {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  padding-top: 32px;
+  text-align: center;
 }
 .section-two-text {
   color: #434455;
@@ -194,8 +215,18 @@ address {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding-bottom: 32px;
+  text-align: center;
 }
 .section-three {
+  padding-top: 120px;
+}
+.made {
+}
+.made-title {
+  margin-bottom: 72px;
+  max-width: 218px;
+  margin: 0 auto;
 }
 .section-three-title-second {
   color: #2e2f42;
@@ -216,6 +247,8 @@ address {
   font-weight: 500;
   line-height: 1.2; /* 120% */
   letter-spacing: 0.02em;
+  padding-top: 32px;
+  text-align: center;
 }
 .section-three-text {
   color: #434455;
@@ -223,6 +256,8 @@ address {
   font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
+  padding-bottom: 32px;
+  text-align: center;
 }
 .footer {
   background: #2e2f42;
