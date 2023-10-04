@@ -35,6 +35,9 @@ img {
 address {
   font-style: normal;
 }
+.header .conteiner {
+  display: flex;
+}
 .conteiner {
   width: 1158px;
   padding-left: 15px;
@@ -42,11 +45,16 @@ address {
   margin: 0 auto;
   outline: 2px solid red;
 }
+
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
   margin-bottom: 0;
 }
+.header .conteiner .header-navigation {
+  display: flex;
+}
+
 .header-navigation {
 }
 .header-logo {
@@ -77,6 +85,7 @@ address {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  display: flex;
 }
 .header-navigation-item {
 }
@@ -95,6 +104,7 @@ address {
   font-style: normal;
 }
 .header-address-list {
+  display: flex;
 }
 .header-address-item {
 }
@@ -149,8 +159,13 @@ address {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.section-one .conteiner {
+  display: flex;
+}
 
 .section-one-list {
+  display: flex;
+  gap: 24px;
 }
 .section-one-item {
 }
@@ -174,6 +189,11 @@ address {
   background-color: #f4f4fd;
   padding-top: 120px;
 }
+
+.section-two .taste {
+  display: flex;
+}
+
 .taste {
 }
 .taste-title {
@@ -191,6 +211,7 @@ address {
   text-transform: capitalize;
 }
 .section-two-list {
+  display: flex;
 }
 .section-two-item {
   background-color: #ffffff;
