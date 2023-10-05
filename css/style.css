@@ -300,6 +300,7 @@ address {
 }
 .footer {
   background: #2e2f42;
+  padding: 100px 0;
 }
 .footer-link {
   color: #4d5ae5;
@@ -309,6 +310,8 @@ address {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-link-black {
   color: #f4f4fd;
