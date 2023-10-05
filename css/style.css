@@ -107,11 +107,12 @@ address {
 }
 .header-address {
   font-style: normal;
+  padding: 24px 0;
 }
 .header-address-list {
   display: flex;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  /* padding-top: 24px;
+  padding-bottom: 24px;*/
   gap: 40px;
   padding-left: 332px;
 }
