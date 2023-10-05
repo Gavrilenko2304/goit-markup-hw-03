@@ -133,7 +133,6 @@ address {
 }
 .hero-container {
   background: #2e2f42;
-  padding: 24px 0;
 }
 
 .hero-title {
@@ -182,6 +181,7 @@ address {
   gap: 24px;
 }
 .section-one-item {
+  padding: 24px 0;
 }
 .section-one-title-third {
   color: #2e2f42;
