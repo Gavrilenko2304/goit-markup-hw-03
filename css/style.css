@@ -171,8 +171,6 @@ address {
   padding-top: 120px;
 }
 .features {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 .section-one .conteiner {
   display: flex;
@@ -259,6 +257,7 @@ address {
 }
 .section-three {
   padding-top: 120px;
+  padding-bottom: 120px;
 }
 .made {
 }
