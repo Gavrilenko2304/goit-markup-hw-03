@@ -133,6 +133,7 @@ address {
 }
 .hero-container {
   background: #2e2f42;
+  padding: 24px 0;
 }
 
 .hero-title {
