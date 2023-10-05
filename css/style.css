@@ -197,7 +197,7 @@ address {
 }
 .section-two {
   background-color: #f4f4fd;
-  padding-top: 120px;
+  padding: 120px 0;
 }
 
 .section-two .taste {
@@ -219,9 +219,12 @@ address {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .section-two-list {
   display: flex;
+  gap: 24px;
 }
 .section-two-item {
   background-color: #ffffff;
