@@ -293,8 +293,11 @@ address {
   margin-bottom: 8px;
 }
 .section-three-item {
+  width: calc((100%-48%) / 3);
 }
 .section-three-img {
+  display: block;
+  max-width: 100%;
 }
 .section-three-title-third {
   color: #2e2f42;
