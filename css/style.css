@@ -107,12 +107,11 @@ address {
 }
 .header-address {
   font-style: normal;
-  padding: 24px 0;
 }
 .header-address-list {
   display: flex;
-  /* padding-top: 24px;
-  padding-bottom: 24px;*/
+  padding-top: 24px;
+  padding-bottom: 24px;
   gap: 40px;
   padding-left: 332px;
 }
@@ -214,7 +213,6 @@ address {
 .taste-title {
   max-width: 162px;
   margin: 0 auto;
-  margin-bottom: 72px;
 }
 .section-two-title-second {
   color: #2e2f42;
@@ -226,6 +224,7 @@ address {
   text-transform: capitalize;
   text-align: center;
   margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 .section-two-list {
   display: flex;
