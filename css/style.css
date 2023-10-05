@@ -57,6 +57,7 @@ address {
 }
 
 .header-navigation {
+  align-items: center;
 }
 .header-logo {
   color: #4d5ae5;
@@ -66,6 +67,7 @@ address {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 .header-logo-black:hover,
 .header-logo-black:focus {
@@ -87,6 +89,9 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   display: flex;
+  gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .header-navigation-item {
 }
@@ -106,6 +111,10 @@ address {
 }
 .header-address-list {
   display: flex;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  gap: 40px;
+  padding-left: 332px;
 }
 .header-address-item {
 }
