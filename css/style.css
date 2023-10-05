@@ -50,6 +50,7 @@ address {
   padding-top: 24px;
   padding-bottom: 24px;
   margin-bottom: 0;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header .conteiner .header-navigation {
   display: flex;
@@ -176,7 +177,7 @@ address {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .section-one-text {
   color: #434455;
