@@ -42,6 +42,7 @@ address {
   align-items: center;
   gap: 332;
   display: flex;
+  padding: 24px 0;
 }
 
 .container {
@@ -52,9 +53,9 @@ address {
 }
 
 .header {
-  padding-top: 24px;
+  /*padding-top: 24px;
   padding-bottom: 24px;
-  margin-bottom: 0;
+  margin-bottom: 0;*/
   border-bottom: 1px solid #e7e9fc;
 }
 .header .header-navigation {
@@ -197,6 +198,7 @@ address {
 }
 .section-one-item {
   padding: 24px 0;
+  width: calc((100% - 72px) / 4);
 }
 .section-one-title-third {
   color: #2e2f42;
@@ -251,7 +253,6 @@ address {
 .conteiner-rez {
   padding: 32px 0;
   text-align: center;
-  margin-bottom: 8px;
 }
 .section-two-title-third {
   color: #2e2f42;
@@ -262,6 +263,7 @@ address {
   letter-spacing: 0.02em;
   padding-top: 32px;
   text-align: center;
+  margin-bottom: 8px;
 }
 .section-two-text {
   color: #434455;
