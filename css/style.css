@@ -37,12 +37,12 @@ address {
 }
 .header {
   display: flex;
+  padding: 24px 0;
 }
 .header-conteiner {
   align-items: center;
   gap: 332;
   display: flex;
-  padding: 24px 0;
 }
 
 .container {
