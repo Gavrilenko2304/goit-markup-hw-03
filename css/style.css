@@ -130,9 +130,9 @@ address {
 }
 .hero {
   padding: 188px 0;
+  background: #2e2f42;
 }
 .hero-container {
-  background: #2e2f42;
 }
 
 .hero-title {
@@ -302,7 +302,6 @@ address {
   justify-content: center;
 }
 .section-three-item {
-  width: calc((100%-48%) / 3);
 }
 .section-three-img {
   display: block;
