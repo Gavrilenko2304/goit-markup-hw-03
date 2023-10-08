@@ -38,6 +38,11 @@ address {
 .header .conteiner {
   display: flex;
 }
+.header-conteiner {
+  display: flex;
+  align-items: center;
+  gap: 332;
+}
 .conteiner {
   width: 1158px;
   padding: 0 15px;
