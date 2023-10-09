@@ -95,6 +95,7 @@ address {
   padding: 24px 0;
 }
 .header-navigation-item {
+  padding: 24px 0;
 }
 .header-navigation-link:hover,
 .header-navigation-link:focus {
